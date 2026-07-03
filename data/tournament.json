@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "createdAt": "2026-07-03T00:00:00.000Z",
+  "createdAt": "2026-06-22T10:16:58.238Z",
   "teams": [
     {
       "id": "MEX",
@@ -8,7 +8,8 @@
       "flag": "🇲🇽",
       "group": "A",
       "slot": 1,
-      "owner": null
+      "owner": "ilker",
+      "stars": 3
     },
     {
       "id": "RSA",
@@ -16,7 +17,8 @@
       "flag": "🇿🇦",
       "group": "A",
       "slot": 2,
-      "owner": null
+      "owner": "eren",
+      "stars": 1
     },
     {
       "id": "KOR",
@@ -24,7 +26,8 @@
       "flag": "🇰🇷",
       "group": "A",
       "slot": 3,
-      "owner": null
+      "owner": "dogan",
+      "stars": 3
     },
     {
       "id": "CZE",
@@ -32,7 +35,8 @@
       "flag": "🇨🇿",
       "group": "A",
       "slot": 4,
-      "owner": null
+      "owner": "giray",
+      "stars": 2
     },
     {
       "id": "CAN",
@@ -40,7 +44,8 @@
       "flag": "🇨🇦",
       "group": "B",
       "slot": 1,
-      "owner": null
+      "owner": "giray",
+      "stars": 2
     },
     {
       "id": "BIH",
@@ -48,7 +53,8 @@
       "flag": "🇧🇦",
       "group": "B",
       "slot": 2,
-      "owner": null
+      "owner": "ilker",
+      "stars": 2
     },
     {
       "id": "QAT",
@@ -56,7 +62,8 @@
       "flag": "🇶🇦",
       "group": "B",
       "slot": 3,
-      "owner": null
+      "owner": "dogan",
+      "stars": 2
     },
     {
       "id": "SUI",
@@ -64,7 +71,8 @@
       "flag": "🇨🇭",
       "group": "B",
       "slot": 4,
-      "owner": null
+      "owner": "eren",
+      "stars": 3
     },
     {
       "id": "BRA",
@@ -72,7 +80,8 @@
       "flag": "🇧🇷",
       "group": "C",
       "slot": 1,
-      "owner": null
+      "owner": "giray",
+      "stars": 5
     },
     {
       "id": "MAR",
@@ -80,7 +89,8 @@
       "flag": "🇲🇦",
       "group": "C",
       "slot": 2,
-      "owner": null
+      "owner": "ilker",
+      "stars": 4
     },
     {
       "id": "HTI",
@@ -88,7 +98,8 @@
       "flag": "🇭🇹",
       "group": "C",
       "slot": 3,
-      "owner": null
+      "owner": "dogan",
+      "stars": 1
     },
     {
       "id": "SCO",
@@ -96,7 +107,8 @@
       "flag": "🏴",
       "group": "C",
       "slot": 4,
-      "owner": null
+      "owner": "eren",
+      "stars": 3
     },
     {
       "id": "USA",
@@ -104,7 +116,8 @@
       "flag": "🇺🇸",
       "group": "D",
       "slot": 1,
-      "owner": null
+      "owner": "ilker",
+      "stars": 3
     },
     {
       "id": "PAR",
@@ -112,7 +125,8 @@
       "flag": "🇵🇾",
       "group": "D",
       "slot": 2,
-      "owner": null
+      "owner": "giray",
+      "stars": 3
     },
     {
       "id": "AUS",
@@ -120,7 +134,8 @@
       "flag": "🇦🇺",
       "group": "D",
       "slot": 3,
-      "owner": null
+      "owner": "eren",
+      "stars": 3
     },
     {
       "id": "TUR",
@@ -128,7 +143,8 @@
       "flag": "🇹🇷",
       "group": "D",
       "slot": 4,
-      "owner": null
+      "owner": "dogan",
+      "stars": 3
     },
     {
       "id": "GER",
@@ -136,7 +152,8 @@
       "flag": "🇩🇪",
       "group": "E",
       "slot": 1,
-      "owner": null
+      "owner": "eren",
+      "stars": 5
     },
     {
       "id": "CUW",
@@ -144,7 +161,8 @@
       "flag": "🇨🇼",
       "group": "E",
       "slot": 2,
-      "owner": null
+      "owner": "ilker",
+      "stars": 1
     },
     {
       "id": "CIV",
@@ -152,7 +170,8 @@
       "flag": "🇨🇮",
       "group": "E",
       "slot": 3,
-      "owner": null
+      "owner": "giray",
+      "stars": 3
     },
     {
       "id": "ECU",
@@ -160,7 +179,8 @@
       "flag": "🇪🇨",
       "group": "E",
       "slot": 4,
-      "owner": null
+      "owner": "dogan",
+      "stars": 3
     },
     {
       "id": "NED",
@@ -168,7 +188,8 @@
       "flag": "🇳🇱",
       "group": "F",
       "slot": 1,
-      "owner": null
+      "owner": "dogan",
+      "stars": 4
     },
     {
       "id": "JPN",
@@ -176,7 +197,8 @@
       "flag": "🇯🇵",
       "group": "F",
       "slot": 2,
-      "owner": null
+      "owner": "giray",
+      "stars": 3
     },
     {
       "id": "SWE",
@@ -184,7 +206,8 @@
       "flag": "🇸🇪",
       "group": "F",
       "slot": 3,
-      "owner": null
+      "owner": "eren",
+      "stars": 2
     },
     {
       "id": "TUN",
@@ -192,7 +215,8 @@
       "flag": "🇹🇳",
       "group": "F",
       "slot": 4,
-      "owner": null
+      "owner": "ilker",
+      "stars": 2
     },
     {
       "id": "BEL",
@@ -200,7 +224,8 @@
       "flag": "🇧🇪",
       "group": "G",
       "slot": 1,
-      "owner": null
+      "owner": "eren",
+      "stars": 4
     },
     {
       "id": "EGY",
@@ -208,7 +233,8 @@
       "flag": "🇪🇬",
       "group": "G",
       "slot": 2,
-      "owner": null
+      "owner": "dogan",
+      "stars": 2
     },
     {
       "id": "IRI",
@@ -216,7 +242,8 @@
       "flag": "🇮🇷",
       "group": "G",
       "slot": 3,
-      "owner": null
+      "owner": "giray",
+      "stars": 2
     },
     {
       "id": "NZL",
@@ -224,7 +251,8 @@
       "flag": "🇳🇿",
       "group": "G",
       "slot": 4,
-      "owner": null
+      "owner": "ilker",
+      "stars": 1
     },
     {
       "id": "ESP",
@@ -232,7 +260,8 @@
       "flag": "🇪🇸",
       "group": "H",
       "slot": 1,
-      "owner": null
+      "owner": "eren",
+      "stars": 5
     },
     {
       "id": "CPV",
@@ -240,7 +269,8 @@
       "flag": "🇨🇻",
       "group": "H",
       "slot": 2,
-      "owner": null
+      "owner": "dogan",
+      "stars": 1
     },
     {
       "id": "KSA",
@@ -248,7 +278,8 @@
       "flag": "🇸🇦",
       "group": "H",
       "slot": 3,
-      "owner": null
+      "owner": "ilker",
+      "stars": 2
     },
     {
       "id": "URU",
@@ -256,7 +287,8 @@
       "flag": "🇺🇾",
       "group": "H",
       "slot": 4,
-      "owner": null
+      "owner": "giray",
+      "stars": 3
     },
     {
       "id": "FRA",
@@ -264,7 +296,8 @@
       "flag": "🇫🇷",
       "group": "I",
       "slot": 1,
-      "owner": null
+      "owner": "giray",
+      "stars": 5
     },
     {
       "id": "SEN",
@@ -272,7 +305,8 @@
       "flag": "🇸🇳",
       "group": "I",
       "slot": 2,
-      "owner": null
+      "owner": "dogan",
+      "stars": 3
     },
     {
       "id": "IRQ",
@@ -280,7 +314,8 @@
       "flag": "🇮🇶",
       "group": "I",
       "slot": 3,
-      "owner": null
+      "owner": "eren",
+      "stars": 1
     },
     {
       "id": "NOR",
@@ -288,7 +323,8 @@
       "flag": "🇳🇴",
       "group": "I",
       "slot": 4,
-      "owner": null
+      "owner": "ilker",
+      "stars": 3
     },
     {
       "id": "ARG",
@@ -296,7 +332,8 @@
       "flag": "🇦🇷",
       "group": "J",
       "slot": 1,
-      "owner": null
+      "owner": "ilker",
+      "stars": 5
     },
     {
       "id": "DZA",
@@ -304,7 +341,8 @@
       "flag": "🇩🇿",
       "group": "J",
       "slot": 2,
-      "owner": null
+      "owner": "dogan",
+      "stars": 2
     },
     {
       "id": "AUT",
@@ -312,7 +350,8 @@
       "flag": "🇦🇹",
       "group": "J",
       "slot": 3,
-      "owner": null
+      "owner": "eren",
+      "stars": 3
     },
     {
       "id": "JOR",
@@ -320,7 +359,8 @@
       "flag": "🇯🇴",
       "group": "J",
       "slot": 4,
-      "owner": null
+      "owner": "giray",
+      "stars": 1
     },
     {
       "id": "POR",
@@ -328,7 +368,8 @@
       "flag": "🇵🇹",
       "group": "K",
       "slot": 1,
-      "owner": null
+      "owner": "dogan",
+      "stars": 5
     },
     {
       "id": "COD",
@@ -336,7 +377,8 @@
       "flag": "🇨🇩",
       "group": "K",
       "slot": 2,
-      "owner": null
+      "owner": "giray",
+      "stars": 2
     },
     {
       "id": "UZB",
@@ -344,7 +386,8 @@
       "flag": "🇺🇿",
       "group": "K",
       "slot": 3,
-      "owner": null
+      "owner": "eren",
+      "stars": 1
     },
     {
       "id": "COL",
@@ -352,7 +395,8 @@
       "flag": "🇨🇴",
       "group": "K",
       "slot": 4,
-      "owner": null
+      "owner": "ilker",
+      "stars": 4
     },
     {
       "id": "ENG",
@@ -360,7 +404,8 @@
       "flag": "🏴",
       "group": "L",
       "slot": 1,
-      "owner": null
+      "owner": "dogan",
+      "stars": 5
     },
     {
       "id": "CRO",
@@ -368,7 +413,8 @@
       "flag": "🇭🇷",
       "group": "L",
       "slot": 2,
-      "owner": null
+      "owner": "ilker",
+      "stars": 4
     },
     {
       "id": "GHA",
@@ -376,7 +422,8 @@
       "flag": "🇬🇭",
       "group": "L",
       "slot": 3,
-      "owner": null
+      "owner": "eren",
+      "stars": 2
     },
     {
       "id": "PAN",
@@ -384,7 +431,8 @@
       "flag": "🇵🇦",
       "group": "L",
       "slot": 4,
-      "owner": null
+      "owner": "giray",
+      "stars": 1
     }
   ],
   "matches": [
@@ -402,8 +450,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-A-2",
@@ -419,8 +484,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-A-3",
@@ -436,8 +518,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-A-4",
@@ -453,8 +552,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-A-5",
@@ -470,8 +586,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-A-6",
@@ -487,8 +620,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-B-1",
@@ -504,8 +654,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-B-2",
@@ -521,8 +688,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-B-3",
@@ -538,8 +722,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-B-4",
@@ -555,8 +756,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-B-5",
@@ -572,8 +790,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-B-6",
@@ -589,8 +824,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-C-1",
@@ -606,8 +858,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-C-2",
@@ -623,8 +892,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-C-3",
@@ -640,8 +926,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-C-4",
@@ -657,8 +960,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-C-5",
@@ -674,8 +994,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-C-6",
@@ -691,8 +1028,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-D-1",
@@ -708,8 +1062,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-D-2",
@@ -725,8 +1096,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-D-3",
@@ -742,8 +1130,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-D-4",
@@ -759,8 +1164,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-D-5",
@@ -776,8 +1198,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-D-6",
@@ -793,8 +1232,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-E-1",
@@ -810,8 +1266,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-E-2",
@@ -827,8 +1300,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-E-3",
@@ -844,8 +1334,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-E-4",
@@ -861,8 +1368,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-E-5",
@@ -878,8 +1402,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-E-6",
@@ -895,8 +1436,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-F-1",
@@ -912,8 +1470,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-F-2",
@@ -929,8 +1504,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-F-3",
@@ -946,8 +1538,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-F-4",
@@ -963,8 +1572,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-F-5",
@@ -980,8 +1606,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-F-6",
@@ -997,8 +1640,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-G-1",
@@ -1014,8 +1674,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-G-2",
@@ -1031,8 +1708,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-G-3",
@@ -1048,8 +1742,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-G-4",
@@ -1065,8 +1776,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-G-5",
@@ -1082,8 +1810,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-G-6",
@@ -1099,8 +1844,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-H-1",
@@ -1116,8 +1878,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-H-2",
@@ -1133,8 +1912,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-H-3",
@@ -1150,8 +1946,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-H-4",
@@ -1167,8 +1980,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-H-5",
@@ -1184,8 +2014,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-H-6",
@@ -1201,8 +2048,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-I-1",
@@ -1218,8 +2082,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-I-2",
@@ -1235,8 +2116,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-I-3",
@@ -1252,8 +2150,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-I-4",
@@ -1269,8 +2184,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-I-5",
@@ -1286,8 +2218,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-I-6",
@@ -1303,8 +2252,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-J-1",
@@ -1320,8 +2286,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-J-2",
@@ -1337,8 +2320,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-J-3",
@@ -1354,8 +2354,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-J-4",
@@ -1371,8 +2388,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-J-5",
@@ -1388,8 +2422,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-J-6",
@@ -1405,8 +2456,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-K-1",
@@ -1422,8 +2490,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-K-2",
@@ -1439,8 +2524,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-K-3",
@@ -1456,8 +2558,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-K-4",
@@ -1473,8 +2592,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-K-5",
@@ -1490,8 +2626,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-K-6",
@@ -1507,8 +2660,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-L-1",
@@ -1524,8 +2694,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-L-2",
@@ -1541,8 +2728,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-L-3",
@@ -1558,8 +2762,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-L-4",
@@ -1575,8 +2796,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-L-5",
@@ -1592,8 +2830,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     },
     {
       "id": "G-L-6",
@@ -1609,8 +2864,25 @@
       "penAway": null,
       "completed": false,
       "events": [],
+      "stats": {
+        "shotsHome": null,
+        "shotsAway": null,
+        "onHome": null,
+        "onAway": null,
+        "possHome": null,
+        "possAway": null,
+        "cornersHome": null,
+        "cornersAway": null,
+        "yellowHome": 0,
+        "yellowAway": 0,
+        "redHome": 0,
+        "redAway": 0,
+        "motm": ""
+      },
       "ratings": [],
-      "stats": {}
+      "press": [],
+      "liveLog": [],
+      "varNote": ""
     }
   ],
   "koMatches": [],
